@@ -10,5 +10,4 @@ This repository is my personal playground and learning hub for all things TypeSc
 - Methods & Techniques: Explore various TypeScript methods and coding techniques that enhance development practices.
 - Learning Notes: Summaries and key takeaways from each concept I learn, structured to provide clarity and quick references.
 - Examples: Practical code examples demonstrating the use of TypeScript in solving common and complex programming challenges.
-- 
 Whether you are a beginner looking to understand the basics or an experienced developer seeking advanced tips, I hope this repository serves as a valuable resource. Feel free to fork, star, or contribute as we grow in our TypeScript mastery together!
