@@ -1,3 +1,4 @@
+//Array's Filter Method in Ts
 /*
 Simple Defination:
 Why do we use the map method in the array?
