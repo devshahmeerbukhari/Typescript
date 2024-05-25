@@ -11,3 +11,10 @@ This repository is my personal playground and learning hub for all things TypeSc
 - Learning Notes: Summaries and key takeaways from each concept I learn, structured to provide clarity and quick references.
 - Examples: Practical code examples demonstrating the use of TypeScript in solving common and complex programming challenges.
 Whether you are a beginner looking to understand the basics or an experienced developer seeking advanced tips, I hope this repository serves as a valuable resource. Feel free to fork, star, or contribute as we grow in our TypeScript mastery together!
+
+
+# When we enter command tsc --init on cmd
+- It creates tsconfig file, and when we run our js file our compiler use this file to compile the code.
+
+# When we dounload packages from npm
+- While deploying our code on npm, packages.json file used..
